@@ -8,7 +8,8 @@ npm install
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 yarn dev
-npm run dev || npx quasar dev.
+# or
+npm run dev.
 ```
 
 
