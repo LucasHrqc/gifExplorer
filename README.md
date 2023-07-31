@@ -13,7 +13,7 @@ npm run dev.
 ```
 
 
-### Lint the files
+### Lint the files (optional)
 ```bash
 yarn lint
 # or
@@ -21,7 +21,7 @@ npm run lint
 ```
 
 
-### Format the files
+### Format the files (optional)
 ```bash
 yarn format
 # or
