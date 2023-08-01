@@ -1,7 +1,3 @@
-# Quasar App (gif-api-project)
-
-A Quasar Project
-
 ## Install the dependencies
 ```bash
 yarn
@@ -11,11 +7,13 @@ npm install
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
-quasar dev
+yarn dev
+# or
+npm run dev.
 ```
 
 
-### Lint the files
+### Lint the files (optional)
 ```bash
 yarn lint
 # or
@@ -23,7 +21,7 @@ npm run lint
 ```
 
 
-### Format the files
+### Format the files (optional)
 ```bash
 yarn format
 # or
@@ -36,6 +34,3 @@ npm run format
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
