@@ -1,5 +1,5 @@
 <template>
-  <div class="flex-row bg-gradient-to-b from-gray-200 to-slate-900 justify-center items-center min-h-screen color-black pt-12">
+  <div class="flex-row bg-gray-200 justify-center items-center min-h- color-black pt-12">
 
     <div v-if="isRequesting" class="flex justify-center items-start">
       <div class="grid grid-cols-4 gap-4 m-4">
